@@ -1,4 +1,4 @@
-# x96Structs
+# x64Structs
 If you know the structure's value when debugging, It'll be very helpful to understand how it works. but x96dbg isn't perfectly offered the structures to you. so I'll maintain this repository for gathering the useful structure when we debug to the application:sunglasses:
 # Usage
 ## Parsing Header(x96dbgStructurs32.h)
@@ -22,8 +22,9 @@ Please feel free to contribute! Issues and pull request are most welcome.
 - Any structures must have these comments except child structure.
    - Link of the structure's definition in MSDN
    - Included header file
+# References
+[x64dbg Type System](https://x64dbg.com/blog/2016/12/04/type-system.html)
 # Authors
 *FullStackReverser* - [fullstackreverser](https://github.com/fullstackreverser) - [@FullStackRCE](https://twitter.com/FullStackRCE)
-
 # License
 x96Structus is distributed under the Apache License. See [LICENSE](LICENSE) for more information.

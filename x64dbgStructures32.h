@@ -1,8 +1,8 @@
 /***********************************************************************
-* FILENAME : x96dbgStructures32.h
+* FILENAME : x64dbgStructures32.h
 *
 * DESCRIPTION :
-*       Loading in x96dbg for windows structure parsing
+*       Loading in x64dbg for windows structure parsing
 *
 * NOTES :
 *       x96dbg was didn't perfectly support 'typedef'.
