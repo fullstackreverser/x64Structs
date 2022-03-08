@@ -1,6 +1,5 @@
 # x96Structs
-It included useful structure for x96dbg
-
+If you know the structure's value when debugging, It'll be very helpful to understand how it works. but x96dbg isn't perfectly offered the structures to you. so I'll maintain this repository for gathering the useful structure when we debug to the application:sunglasses:
 # Usage
 ## Parsing Header(x96dbgStructurs32.h)
 1. Git clone the repository that you prefer path.
@@ -14,7 +13,8 @@ It included useful structure for x96dbg
    Mouse right click :arrow_right: click the 'Visit type'
 6. Input the structurs name in the dialog.
 7. Input the address that you want see in the dialog.
-8. Finally, You can see the parsed structure. then you inspect the member's values for your enjoyable debugging!
+8. Finally, You can see the parsed structure. then you inspect the member's values for your enjoyable debugging:wink:
+![usage_video](https://user-images.githubusercontent.com/84364089/157155415-2951fc74-9c70-4e31-b6b7-feb9b3130307.gif)
 # Contributing
 Please feel free to contribute! Issues and pull request are most welcome.
 ## Ruls
